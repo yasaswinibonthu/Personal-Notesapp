@@ -1,7 +1,7 @@
 
-# **Notes App**
+# **Personal Notes App**
 
-A simple and intuitive **Notes App** for managing personal notes, built using **Java** and the Android Views framework. The app supports creating, editing, and viewing notes in a user-friendly interface.
+A simple and intuitive ** Personal Notes App** for managing personal notes, built using **Java** and the Android Views framework. The app supports creating, editing, and viewing notes in a user-friendly interface.
 
 ---
 
