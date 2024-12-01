@@ -80,7 +80,5 @@ Contributions are welcome! Please follow these steps:
    ```bash
    git push origin feature-name
    ```
-5. Open a Pull Request.
 
----
 
