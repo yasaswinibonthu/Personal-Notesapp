@@ -1,6 +1,3 @@
-Here's a **README.md** template for your notes app project. This provides an overview, installation steps, features, and other necessary details:
-
----
 
 # **Notes App**
 
